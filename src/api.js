@@ -1,3 +1,2 @@
-const api = "http://localhost:5000/api/v1";
-// const api = "https://billsgate.club/api/v1"
+const api = window.config.BACKEND_URL;
 export default api;
