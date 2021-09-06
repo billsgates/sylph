@@ -1,10 +1,10 @@
 <template>
   <div id="login">
     <div class="l-block-container">
-      <a-button class="google-login" block @click="googleLogin()">
+      <!-- <a-button class="google-login" block @click="googleLogin()">
         <a-icon type="google" />
         {{ $t(`google_login`) }}
-      </a-button>
+      </a-button> -->
 
       <a-form :form="form" hasFeedback :style="{ radius: '2px' }">
         <div class="l-form-item">
