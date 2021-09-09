@@ -9,10 +9,10 @@
   > -->
   <div id="sign-up">
     <div class="su-block-container">
-      <a-button class="google-login" block @click="googleSignUp()">
+      <!-- <a-button class="google-login" block @click="googleSignUp()">
         <a-icon type="google" />
         {{ $t(`google_login`) }}
-      </a-button>
+      </a-button> -->
 
       <a-form :form="form" hasFeedback :style="{ radius: '2px' }">
         <div class="su-form-item">
