@@ -2,7 +2,7 @@
   <div id="gate">
     <div class="title-container">
       <transition name="slide1">
-        <div v-if="isShow" class="title">Split Bill,</div>
+        <div v-if="isShow" class="title">Split Bills,</div>
       </transition>
       <transition name="slide2">
         <div v-if="isShow" class="title">Remind Interval,</div>
