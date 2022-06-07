@@ -1,3 +1,3 @@
 var config = {
-    BACKEND_URL: "https://api.my-beta.billsgate.club/api/v1"
+    BACKEND_URL: "https://api.my-beta.billsgate.me/api/v1"
 };
